@@ -1,6 +1,6 @@
 # Getting started
 
-Clone this repo (note the `recurse-submodules`):
+Clone this repo (note the `recurse-submodules` option):
 
 ```
 git clone --recurse-submodules git@github.com:federico-arias/pl.git
@@ -18,6 +18,6 @@ Run the frontend:
 cd frontend && yarn && yarn start
 ```
 
-Go to [localhost:4000][dev] on your browser.
+Go to [http://localhost:3000][dev] on your browser.
 
-[dev]: http://localhost:4000
+[dev]: http://localhost:3000
